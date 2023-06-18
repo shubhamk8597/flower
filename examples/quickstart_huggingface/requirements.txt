@@ -4,3 +4,4 @@ flwr~=1.4.0
 numpy~=1.21.1
 torch~=2.0.1
 transformers~=4.29.2
+scikit-learn~=1.0
